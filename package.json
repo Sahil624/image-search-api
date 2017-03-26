@@ -1,0 +1,24 @@
+{
+  "name": "request-header",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-useragent": "^1.0.7",
+    "request": "^2.81.0"
+  },
+  "engines": {
+    "node": "6.7.0",
+    "npm": "3.10.3"
+  },
+  "start": "node server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
